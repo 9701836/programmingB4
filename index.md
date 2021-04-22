@@ -11,9 +11,9 @@
 
 An Unfinished OOP Space Shooter Game Made In Processing Winter 2020
 
-[Space Game Image](https://github.com/9701836/programmingB4/blob/gh-pages/images/Space%20Game.png?raw=true)
+![Space Game Image](https://github.com/9701836/programmingB4/blob/gh-pages/images/Space%20Game.png?raw=true)
 
-![Source Code](https://github.com/9701836/programmingB4/tree/gh-pages/src/Space_boi "Source Code")
+[Source Code](https://github.com/9701836/programmingB4/tree/gh-pages/src/Space_boi "Source Code")
 
 #### Converter App
 
