@@ -2,7 +2,11 @@
 
 ## William Crawford 
 
-![
+Contact Me at: willcrawford13245@gmail.com
+
+## 100% on the State CTE Exam on the 8th of January, 2021
+
+### Group Project
 
 ### Processing Projects
 
